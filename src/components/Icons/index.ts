@@ -1,0 +1,118 @@
+import AlignCenter from "./AlignCenter"
+import AlignLeft from "./AlignLeft"
+import AlignRight from "./AlignRight"
+import Camara from "./Camara"
+import Center from "./Center"
+import Circle from "./Circle"
+import CircleDown from "./CircleDown"
+import CircleUp from "./CircleUp"
+import Clock from "./Clock"
+import DownArrow from "./DownArrow"
+import Download from "./Download"
+import Duplicate from "./Duplicate"
+import ExportDoc from "./ExportDoc"
+import Eye from "./Eye"
+import Facebook from "./Facebook"
+import FlipHorizontal from "./FlipHorizontal"
+import FlipVertical from "./FlipVertical"
+import Help from "./Help"
+import ImportDoc from "./ImportDoc"
+import Instagram from "./Instagram"
+import Justify from "./Justify"
+import LeftArrow from "./LeftArrow"
+import Less from "./Less"
+import Linkedin from "./Linkedin"
+import LoadMore from "./LoadMore"
+import Logo from "./Logo"
+import Love from "./Love"
+import New from "./New"
+import Note from "./Note"
+import Padlock from "./Padlock"
+import Plus from "./Plus"
+import Images from "./Images"
+import Points from "./Points"
+import RightArrow from "./RightArrow"
+import Save from "./Save"
+import Search from "./Search"
+import Share from "./Share"
+import Star from "./Star"
+import SymbolP from "./SymbolP"
+import Trash from "./Trash"
+import UpArrow from "./UpArrow"
+import Uploads from "./Uploads"
+import User from "./User"
+import UserPlus from "./UserPlus"
+import X from "./X"
+import Youtube from "./Youtube"
+import Shapes from "./Shapes"
+import Frames from "./Frames"
+import Backgrounds from "./Backgrounds"
+import Text from "./Text"
+import Undo from "./Undo"
+import Redo from "./Redo"
+import Projects from "./Projects"
+import Templates from "./Templates"
+import Layers from "./Layers"
+import Settings from "./Settings"
+
+class Icons {
+  static Search = Search
+  static Points = Points
+  static User = User
+
+  static Youtube = Youtube
+  static Facebook = Facebook
+  static Linkedin = Linkedin
+  static Instagram = Instagram
+  static Center = Center
+  static CircleUp = CircleUp
+  static CircleDown = CircleDown
+  static X = X
+  static Eye = Eye
+  static Padlock = Padlock
+  static LoadMore = LoadMore
+  static Love = Love
+  static Clock = Clock
+  static Trash = Trash
+  static Duplicate = Duplicate
+  static Download = Download
+  static SymbolP = SymbolP
+  static Less = Less
+  static Plus = Plus
+  static RightArrow = RightArrow
+  static LeftArrow = LeftArrow
+  static DownArrow = DownArrow
+  static UpArrow = UpArrow
+  static Help = Help
+  static Share = Share
+  static ExportDoc = ExportDoc
+  static ImportDoc = ImportDoc
+  static New = New
+  static Save = Save
+  static Logo = Logo
+  static Camara = Camara
+  static Star = Star
+  static Note = Note
+  static UserPlus = UserPlus
+  static Uploads = Uploads
+  static FlipVertical = FlipVertical
+  static FlipHorizontal = FlipHorizontal
+  static Circle = Circle
+  static Justify = Justify
+  static AlignCenter = AlignCenter
+  static AlignLeft = AlignLeft
+  static AlignRight = AlignRight
+  static Images = Images
+  static Shapes = Shapes
+  static Frames = Frames
+  static Backgrounds = Backgrounds
+  static Text = Text
+  static Undo = Undo
+  static Redo = Redo
+  static Projects = Projects
+  static Templates = Templates
+  static Layers = Layers
+  static Settings = Settings
+}
+
+export default Icons
