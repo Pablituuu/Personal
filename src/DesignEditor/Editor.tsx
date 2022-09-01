@@ -5,6 +5,7 @@ import PanelItem from "./components/PanelItem"
 import PanelList from "./components/PanelList"
 
 export default function Editor() {
+  console.log("hola")
   return (
     <Box sx={{ height: "100vh", width: "100vw", display: "flex", flexDirection: "column" }}>
       <Header />
