@@ -3,6 +3,7 @@ import { Canvas as ScenifyCanvas } from "@scenify/react"
 import Footer from "./Footer"
 
 function Canvas() {
+  console.log("canvas")
   return (
     <Box sx={{ backgroundColor: "#ecf0f1", flex: 1, display: "flex", position: "relative" }}>
       <ScenifyCanvas
